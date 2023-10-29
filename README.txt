@@ -1,8 +1,3 @@
-project folder:
-zwcai0110-cs1c-project08/
-
-Brief description of submitted files:
-
 src/shortestPath/BaseballFileReader.java
     - File reader that generates an arraylist of possible routes
 
@@ -20,6 +15,3 @@ src/shortestPath/RouteFinder.java
 
 resources/RUN.txt
     - console output of RouteFinder.java using different inputs
-
-README.txt
-    - description of submitted files
